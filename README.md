@@ -2,9 +2,15 @@
 
 Practical quick-start checklists for contractors, freelancers, consultants, and creators who want a clearer way to publish, find clients, or validate a digital product.
 
-These resources are published by **LaunchFoundry**. They do not promise revenue, automatic customers, or business outcomes. They are operating tools: the result still depends on the offer, market, execution, follow-up, and customer decisions.
+These resources are published by **LaunchFoundry Systems**. They do not promise revenue, automatic customers, or business outcomes. They are operating tools: the result still depends on the offer, market, execution, follow-up, and customer decisions.
 
 ## Free quick-start resources
+
+### [7-Day Customer Visibility Sprint](7-day-customer-visibility-sprint.md)
+
+Turn one offer into seven focused visibility actions across customer research, useful publishing, direct outreach, partnerships, search, and follow-up.
+
+Full ungated plan: [A Free 7-Day Customer Visibility Plan](https://launchfoundry-systems.bitjaxx.chatgpt.site/free-visibility-plan?utm_source=github&utm_medium=resource_repository&utm_campaign=visibility_sprint&utm_content=visibility_readme)
 
 ### [90-Day Contractor Content Checklist](contractor-content-checklist.md)
 
@@ -46,9 +52,9 @@ Full ungated guide: [A Digital Product Sales Page Checklist for a Clearer Launch
 
 [Offer Clarity Scorecard](https://launchfoundry-systems.bitjaxx.chatgpt.site/tools/offer-clarity-scorecard?utm_source=github&utm_medium=resource_repository&utm_campaign=guide_launch_2026&utm_content=scorecard_readme) — score a potential offer against seven evidence checks and produce a seven-day validation plan. No email gate; work is saved only in the browser.
 
-## About LaunchFoundry
+## About LaunchFoundry Systems
 
-LaunchFoundry publishes original implementation systems containing editable files, scripts, calculators, examples, workflows, and offline interactive workspaces.
+LaunchFoundry Systems publishes original implementation systems containing editable files, scripts, calculators, examples, workflows, and offline interactive workspaces.
 
 - Website: [launchfoundry-systems.bitjaxx.chatgpt.site](https://launchfoundry-systems.bitjaxx.chatgpt.site/?utm_source=github&utm_medium=resource_repository&utm_campaign=guide_launch_2026&utm_content=homepage_readme)
 - Short link: [tinyurl.com/launchfoundry](https://tinyurl.com/launchfoundry)
