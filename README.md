@@ -24,6 +24,24 @@ Collect customer evidence, build the smallest useful offer, verify checkout and 
 
 Full ungated guide: [How to Validate and Launch a Digital Product in 21 Days](https://launchfoundry-systems.bitjaxx.chatgpt.site/guides/validate-and-launch-digital-product?utm_source=github&utm_medium=resource_repository&utm_campaign=guide_launch_2026&utm_content=creator_readme)
 
+### [Contractor Lead Follow-Up Checklist](contractor-lead-follow-up-checklist.md)
+
+Give every inquiry a stage, owner, response standard, and dated next action without relying on pressure or endless reminders.
+
+Full ungated guide: [A Contractor Lead Follow-Up System That Protects Trust](https://launchfoundry-systems.bitjaxx.chatgpt.site/guides/contractor-lead-follow-up-system?utm_source=github&utm_medium=resource_repository&utm_campaign=guide_launch_2026&utm_content=contractor_followup_readme)
+
+### [Freelance Project Pricing Checklist](freelance-pricing-checklist.md)
+
+Build a sustainable price floor, document scope assumptions, present meaningful options, and review real delivery economics.
+
+Full ungated guide: [How to Price Freelance Projects Without Guessing](https://launchfoundry-systems.bitjaxx.chatgpt.site/guides/how-to-price-freelance-projects?utm_source=github&utm_medium=resource_repository&utm_campaign=guide_launch_2026&utm_content=freelance_pricing_readme)
+
+### [Digital Product Sales Page Checklist](digital-product-sales-page-checklist.md)
+
+Explain the buyer, outcome, evidence, contents, price, limits, checkout, and delivery without fake proof or pressure.
+
+Full ungated guide: [A Digital Product Sales Page Checklist for a Clearer Launch](https://launchfoundry-systems.bitjaxx.chatgpt.site/guides/digital-product-sales-page-checklist?utm_source=github&utm_medium=resource_repository&utm_campaign=guide_launch_2026&utm_content=sales_page_readme)
+
 ## Free interactive tool
 
 [Offer Clarity Scorecard](https://launchfoundry-systems.bitjaxx.chatgpt.site/tools/offer-clarity-scorecard?utm_source=github&utm_medium=resource_repository&utm_campaign=guide_launch_2026&utm_content=scorecard_readme) — score a potential offer against seven evidence checks and produce a seven-day validation plan. No email gate; work is saved only in the browser.
@@ -35,6 +53,7 @@ LaunchFoundry publishes original implementation systems containing editable file
 - Website: [launchfoundry-systems.bitjaxx.chatgpt.site](https://launchfoundry-systems.bitjaxx.chatgpt.site/?utm_source=github&utm_medium=resource_repository&utm_campaign=guide_launch_2026&utm_content=homepage_readme)
 - Short link: [tinyurl.com/launchfoundry](https://tinyurl.com/launchfoundry)
 - Purchase support: [LaunchFoundry support](https://launchfoundry-systems.bitjaxx.chatgpt.site/support)
+- Public methodology: [How LaunchFoundry builds and reviews its systems](https://launchfoundry-systems.bitjaxx.chatgpt.site/methodology?utm_source=github&utm_medium=resource_repository&utm_campaign=guide_launch_2026&utm_content=methodology_readme)
 
 ## Responsible-use standard
 
