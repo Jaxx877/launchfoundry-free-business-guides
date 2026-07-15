@@ -48,6 +48,24 @@ Explain the buyer, outcome, evidence, contents, price, limits, checkout, and del
 
 Full ungated guide: [A Digital Product Sales Page Checklist for a Clearer Launch](https://launchfoundry-systems.bitjaxx.chatgpt.site/guides/digital-product-sales-page-checklist?utm_source=github&utm_medium=resource_repository&utm_campaign=guide_launch_2026&utm_content=sales_page_readme)
 
+### [Completed Job-to-Content Checklist](contractor-job-to-content-checklist.md)
+
+Capture the problem, decision, permission, proof, follow-up, and reusable content from one completed service job.
+
+Full ungated guide: [How Contractors Can Turn One Completed Job Into a Week of Useful Content](https://launchfoundry-systems.bitjaxx.chatgpt.site/guides/contractor-job-to-content-system?utm_source=github&utm_medium=resource_repository&utm_campaign=distribution_guides&utm_content=contractor_job_readme)
+
+### [Freelance Proposal Follow-Up Checklist](freelance-proposal-follow-up-checklist.md)
+
+Use four decision-focused touches, document the next action, and stop chasing when a buyer will not commit to a decision path.
+
+Full ungated guide: [Freelance Proposal Follow-Up: What to Send, When, and When to Stop](https://launchfoundry-systems.bitjaxx.chatgpt.site/guides/freelance-proposal-follow-up?utm_source=github&utm_medium=resource_repository&utm_campaign=distribution_guides&utm_content=proposal_followup_readme)
+
+### [Digital Product Pricing Checklist](digital-product-pricing-checklist.md)
+
+Set a defensible first price using the buyer, problem, alternatives, delivery economics, proof, and a small paid test.
+
+Full ungated guide: [How to Price a Digital Product Without Guessing](https://launchfoundry-systems.bitjaxx.chatgpt.site/guides/digital-product-pricing-checklist?utm_source=github&utm_medium=resource_repository&utm_campaign=distribution_guides&utm_content=product_pricing_readme)
+
 ## Free interactive tool
 
 [Offer Clarity Scorecard](https://launchfoundry-systems.bitjaxx.chatgpt.site/tools/offer-clarity-scorecard?utm_source=github&utm_medium=resource_repository&utm_campaign=guide_launch_2026&utm_content=scorecard_readme) — score a potential offer against seven evidence checks and produce a seven-day validation plan. No email gate; work is saved only in the browser.
