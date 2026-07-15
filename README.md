@@ -4,6 +4,12 @@ Practical quick-start checklists for contractors, freelancers, consultants, and 
 
 These resources are published by **LaunchFoundry Systems**. They do not promise revenue, automatic customers, or business outcomes. They are operating tools: the result still depends on the offer, market, execution, follow-up, and customer decisions.
 
+## Product Hunt launch — July 17, 2026
+
+LaunchFoundry Systems is scheduled to launch on Product Hunt on Friday, July 17. The transparent [launch hub](https://launchfoundry-systems.bitjaxx.chatgpt.site/launch?utm_source=github&utm_medium=resource_repository&utm_campaign=producthunt_launch&utm_content=readme_announcement) shows all three systems, real prices, free starting points, a fair alternatives comparison, and the project&apos;s no-income-hype standard.
+
+[Preview LaunchFoundry on Product Hunt](https://www.producthunt.com/products/launchfoundry-systems/launchfoundry-systems/prelaunch) and share specific product feedback or questions with the maker.
+
 ## Free quick-start resources
 
 ### [7-Day Customer Visibility Sprint](7-day-customer-visibility-sprint.md)
